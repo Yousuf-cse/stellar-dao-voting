@@ -20,7 +20,7 @@ A decentralized autonomous organization (DAO) governance application built on th
 ![Submit Proposal](https://res.cloudinary.com/dxkje9whm/image/upload/v1775590105/Screenshot_592_r9tn5n.png)
 
 ### Vote Interface
-![Vote Interface]()
+![Vote Interface](https://res.cloudinary.com/dxkje9whm/image/upload/v1775590105/Screenshot_593_uxoege.png)
 
 ### Governance Actions
 ![Governance](https://res.cloudinary.com/dxkje9whm/image/upload/v1775590106/Screenshot_594_nqidv2.png)
